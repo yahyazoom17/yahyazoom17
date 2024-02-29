@@ -1,14 +1,14 @@
 ## Hi there 👋 I'm Yahya
 
 Student @ Krupanidhi Pre-University
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281)">
 - 🔭 Here's my [portfolio](#)                                                 
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in Google
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](yahyazoom7@gmail.com) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/simply._.yahya?igsh=NHhydWRzcG90MTBk)
+<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/simply._.yahya?igsh=NHhydWRzcG90MTBk)
 - 😄 Pronouns: Techie
 - ⚡ Fun Fact: I know French.
 
