@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Yahya
 
 Student @ Krupanidhi Pre-University
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281)">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2czcDJuMDU3eWVlYTU2b2t2eGZqa2NlaW8xZ3R2bXV5dGYzeHc3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 Here's my [portfolio](#)                                                 
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on ML/AI
