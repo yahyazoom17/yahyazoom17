@@ -27,6 +27,6 @@ Student @ Krupanidhi Pre-University
 
 [![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyazoom17)](https://github.com/anuraghazra/github-readme-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yahyazoom17?theme=dark&font=Fira%20Code&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yahya17?theme=dark&font=Noto%20Sans%20Soyombo)
 
 [![Yahya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yahyazoom17&bg_color=000000&color=ffffff&line=1eff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
