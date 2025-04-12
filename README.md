@@ -8,7 +8,7 @@ Student @ Krupanidhi Pre-University
 - 🤔 I’m looking for help with Placements in Google
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/simply._.yahya?igsh=NHhydWRzcG90MTBk)
+<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/__simplyahya__/)
 - 😄 Pronouns: Techie
 - ⚡ Fun Fact: I know French.
 - Support Me :
