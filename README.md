@@ -25,6 +25,8 @@ Student @ Vemana Institute Of Technology
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/AMD-RYZEN_5_9600X-orange?style=for-the-badge&logo=amd&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/NVIDIA-GEFORCE_RTX_5060_TI-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 ![Yahya's GitHub stats](https://github-stats-extended.vercel.app/api?username=yahyazoom17)
 
