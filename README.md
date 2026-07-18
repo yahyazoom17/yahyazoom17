@@ -9,7 +9,7 @@ Student @ Vemana Institute Of Technology
 - 🤔 I’m looking for help with Placements at Google
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/__simplyahya__/)
+<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/codewithyahya/)
 - 😄 Pronouns: Techie
 - ⚡ Fun Fact: I know French.
 - Support Me :
