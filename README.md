@@ -26,7 +26,7 @@ Student @ Vemana Institute Of Technology
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
-[![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyazoom17)](https://github.com/anuraghazra/github-readme-stats)
+![Yahya's GitHub stats](https://github-stats-extended.vercel.app/api?username=yahyazoom17)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yahya17?theme=dark&font=Noto%20Sans%20Soyombo)
 
