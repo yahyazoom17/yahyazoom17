@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Yahya
+## Hey there 👋 I'm Yahya
 
 [![](https://komarev.com/ghpvc/?username=yahyazoom17&icon=6&color=blue)](https://visitcount.itsvg.in)<br/>
 
@@ -28,7 +28,6 @@ Student @ Vemana Institute Of Technology
 
 ### 📊 GitHub stats
 ![](https://github-readme-stats.shion.dev/api?username=yahyazoom17&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
-<img src="https://ghchart.rshah.org/yahyazoom17" alt="GitHub Contributions" />
 ![](https://streak-stats.demolab.com/?user=yahyazoom17&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yahyazoom17&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
