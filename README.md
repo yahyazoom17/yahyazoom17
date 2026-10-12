@@ -12,7 +12,7 @@ Student @ Vemana Institute Of Technology
 - 💬 Ask me about Tech, Psychology, Cinema
 - 🎥 Find my fav at [Letterboxd](https://boxd.it/mWlOL)
 - 📫 How to reach me :
-<br /> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahyazoom7@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@codewithyahya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yahya-a-b93581339) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@simplyahya)
+<br /> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahyazoom7@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@codewithyahya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yahya-a-b93581339) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@simplyahya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yahyazoom17)
 - 😄 Pronouns: Techie, Yahi
 - ⚡ Fun Fact: I know Arabic.
 
@@ -36,7 +36,7 @@ Student @ Vemana Institute Of Technology
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yahya17?theme=dark&font=Noto%20Sans%20Soyombo)
 
 ### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@codewithyahya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yahya-a-b93581339) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iamironman4u) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@yahyazoom17) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@simplyahya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahyazoom7@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@codewithyahya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yahya-a-b93581339) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iamironman4u) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yahyazoom17) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@simplyahya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahyazoom7@gmail.com) 
 
 ### 💰 You can support me by donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yahyazoom17) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yahyazoom1727) 
