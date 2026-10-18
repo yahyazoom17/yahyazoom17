@@ -4,7 +4,7 @@
 
 Student @ Vemana Institute Of Technology
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2czcDJuMDU3eWVlYTU2b2t2eGZqa2NlaW8xZ3R2bXV5dGYzeHc3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-- 🏢 Founder @ [SHORTIFY](https://shortify-vercel.vercel.app/)
+- 🏢 Founder @ [Shortify](https://shortify-vercel.vercel.app/)
 - 🔭 Here's my [portfolio](https://yahya17-portfolio.web.app/)                                                 
 - 🌱 I’m currently working on Agentic AI & IoT @ [Alwebiee](https://github.com/alwebiee-ai)
 - 👯 I’m looking to collaborate on ML/AI
